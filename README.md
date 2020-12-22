@@ -4,6 +4,9 @@
 
 ## Information Obtained :
 
+- Total Data: 2188
+- Total Kelas: 3
+
 ### 1. Accuracy model optimasi Adamax vs Nadam
 
 
