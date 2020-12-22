@@ -1,4 +1,6 @@
-# Rock-Paper-Scissors (Project from Dicoding)
+# Image Classification Model Deployment
+
+## Case: Rock-Paper-Scissors (Project from Dicoding)
 
 ## Information Obtained :
 
